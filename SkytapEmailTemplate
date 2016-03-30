@@ -1,7 +1,7 @@
 <<EMAIL ADDRESS>>
-An environment in Skytap has been shared with you
+SUBJECT LINE: An environment in Skytap has been shared with you
 
-Welcome to Skytap environment Developer Java MR 201403 us-east 23-pack BankOfAmerica 20160307. Click the published URL below to get started.
+Welcome to Skytap environment <<ENV-NAME>>. Click the published URL below to get started.
 
 <<COURSE NAME>>:
 <<VM URL>>
