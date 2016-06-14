@@ -2,12 +2,12 @@
 ## Document templates for Cloudera classes
 
 ### DOCUMENT LIST
-README.md: This file.<br/>
-VM Installation.docx: A MS Word file containing instructions for running a course virtual machine on your own computer.<br/>
-Welcome to Cloudera Class: A MS Word file with instructions for enrolling in class and downloading the courseware.<br/>
-PostClassSurveyInstructions.docx: A MS Word file with instructions for filling out a post-class survey.<br/>
-SkytapEmailTemplate: A text file containing the template student emails for connecting to Skytap instances.<br/>
-Work On.docx: A MS Word file for tracking exercise breaks, with exercise titles, time allocations, and notes.<br/>
+<b>README.md:</b> This file.<br/>
+<b>VM Installation.docx:</b> A MS Word file containing instructions for running a course virtual machine on your own computer.<br/>
+<b>Welcome to Cloudera Class:</b> A MS Word file with instructions for enrolling in class and downloading the courseware.<br/>
+<b>PostClassSurveyInstructions.docx:</b> A MS Word file with instructions for filling out a post-class survey.<br/>
+<b>SkytapEmailTemplate:</b> A text file containing the template student emails for connecting to Skytap instances.<br/>
+<b>Work On.docx:</b> A MS Word file for tracking exercise breaks, with exercise titles, time allocations, and notes.<br/>
 
 ### DESCRIPTION
 This repository contains regularly used documents in template format.
