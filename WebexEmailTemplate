@@ -1,0 +1,21 @@
+Hi all,
+
+My name is Keith Ratliff and I'll be teaching the Cloudera <<CLASS NAME>> Training class starting on <<START DATE>>.
+
+We will be conducting the class via Webex. The meeting information is here:
+<<JOIN WEBEX MEETING INFO>>
+
+Please be sure to join the meeting 15 minutes before the start of class.
+Also, please verify your capability of joining a Webex session.
+https://www.webex.com/test-meeting.html provides a quick test.
+
+The exercises will be done in a cloud-based implementation that is hosted by Skytap.
+In order to ensure success with the exercises, please verify your capability to connect with the Skytap environment as follows:
+
+    You will need a computer that can access the Internet. In addition to Internet access, your system will need a modern browser (Chrome, Firefox, Safari, Internet Explorer 10+)
+    Please test access to the exercise environment using the following link: https://cloud.skytap.com/connectivity
+    Please try to access the EAST region. If you receive a green or yellow rating (below 150ms latency), the lab environment should be fine.
+
+If you have any issues with verification, please reply to this email and we'll work to get them resolved quickly. I'll be supplying access to the virtual machines on the first day of class.
+
+Thanks, and I look forward to a great class!
