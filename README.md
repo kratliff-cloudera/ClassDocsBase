@@ -7,6 +7,7 @@
 <b>Welcome to Cloudera Class:</b> A MS Word file with instructions for enrolling in class and downloading the courseware.<br/>
 <b>PostClassSurveyInstructions.docx:</b> A MS Word file with instructions for filling out a post-class survey.<br/>
 <b>SkytapEmailTemplate:</b> A text file containing the template student emails for connecting to Skytap instances.<br/>
+<b>WebexEmailTemplate:</b> A text file containing the template student emails for connecting to Webex virtual class meetings.<br/>
 <b>Work On.docx:</b> A MS Word file for tracking exercise breaks, with exercise titles, time allocations, and notes.<br/>
 
 ### DESCRIPTION
